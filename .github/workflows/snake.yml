@@ -26,7 +26,8 @@ on:
 
       - main
 
-
+permissions:
+  contents: write
 
 jobs:
 
@@ -44,7 +45,7 @@ jobs:
 
       - name: Checkout Repository
 
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
 
 
