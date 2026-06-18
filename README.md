@@ -4,7 +4,7 @@
 ![GuhStaths's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuhStaths&show_icons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuhStaths&langs_count=8)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40" alt="C" />
 
 <hr>
      <a href= "https://www.linkedin.com/in/gustavo-stathopoulos" target="_blank">
