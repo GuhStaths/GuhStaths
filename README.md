@@ -12,6 +12,7 @@
 
 <hr>
 
+![snake gif](https://github.com/GuhStaths/GuhStaths/blob/output/github-snake-dark.svg)
 
 
 
