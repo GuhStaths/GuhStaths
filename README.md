@@ -10,6 +10,8 @@
           <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
      </a>
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 <hr>
 
 ![snake gif](https://github.com/GuhStaths/GuhStaths/blob/output/github-snake-dark.svg)
