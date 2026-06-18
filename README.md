@@ -4,7 +4,7 @@
 ![GuhStaths's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuhStaths&show_icons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuhStaths&langs_count=8)
 
-![C]((https://commons.wikimedia.org/wiki/File:C_Logo.png))
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="C" />
 
 <hr>
      <a href= "https://www.linkedin.com/in/gustavo-stathopoulos" target="_blank">
