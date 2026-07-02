@@ -5,6 +5,8 @@
 ![GuhStaths's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuhStaths&show_icons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuhStaths&langs_count=8)
 
+<a href="https://github-stats-extended.vercel.app/api?username=guhstaths"><img src="https://github-stats-extended.vercel.app/api?username=guhstaths"></a>
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40" alt="C" />
 
 <hr>
